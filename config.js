@@ -111,7 +111,7 @@ const CONFIG = {
 		{
 			id: '4',
 			name: 'uv.ulb',
-			icon: 'graduation-cap,
+			icon: 'graduation-cap',
 			link: 'https://uv.ulb.ac.be/my/index.php',
 		},
 		{
