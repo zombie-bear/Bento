@@ -32,8 +32,8 @@ const CONFIG = {
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '37.775',
-	defaultLongitude: '-122.419',
+	defaultLatitude: '50.827740',
+	defaultLongitude: '4.371520',
 
 	// Autochange
 	autoChangeTheme: true,
@@ -73,7 +73,7 @@ const CONFIG = {
 			id: '4',
 			name: 'Calendar',
 			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			link: 'https://calendar.proton.me/u/0/',
 		},
 		{
 			id: '5',
