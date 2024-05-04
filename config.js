@@ -26,7 +26,7 @@ const CONFIG = {
 	bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: 'bcd0c43286334c7ca770a3b6691ed02e', // Write here your API Key
+	weatherKey: 'Ibcd0c43286334c7ca770a3b6691ed02e', // Write here your API Key
 	weatherIcons: 'Nord', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
@@ -83,7 +83,7 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'HIanime',
+			name: 'Odysee',
 			icon: 'youtube',
 			link: 'https://hianime.to/',
 		},
@@ -98,15 +98,15 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'reddit',
-			icon: 'glasses',
-			link: 'https://www.reddit.com/',
-		},
-		{
-			id: '3',
 			name: 'columns',
 			icon: 'columns-3',
 			link: 'https://columns.app',
+		},
+		{
+			id: '3',
+			name: 'bot',
+			icon: 'bot',
+			link: 'https://discord.com/app',
 		},
 		{
 			id: '4',
