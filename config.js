@@ -67,7 +67,7 @@ const CONFIG = {
 			id: '3',
 			name: 'Todoist',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://tilly.work/',
 		},
 		{
 			id: '4',
@@ -98,9 +98,9 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'columns',
-			icon: 'columns-3',
-			link: 'https://columns.app',
+			name: 'R',
+			icon: 'chart-line',
+			link: 'https://rdrr.io/snippets/',
 		},
 		{
 			id: '3',
